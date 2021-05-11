@@ -25,4 +25,4 @@ f1_m: 0.9470
 
 Loss of the model is -  3.2762613147497177 %
 
-Saved latest model (h3 file): https://drive.google.com/file/d/1JBThYZZq7uEHuLwZPZzDL-RD646rg76B/view?usp=sharing
+Saved latest model (h5 file): https://drive.google.com/file/d/1JBThYZZq7uEHuLwZPZzDL-RD646rg76B/view?usp=sharing
